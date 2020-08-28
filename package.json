@@ -1,0 +1,22 @@
+{
+  "name": "cypressgh",
+  "version": "1.0.0",
+  "description": "GH POC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amit-manerkar-by/cypressgh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amit-manerkar-by/cypressgh/issues"
+  },
+  "homepage": "https://github.com/amit-manerkar-by/cypressgh#readme",
+  "devDependencies": {
+    "cypress": "^5.0.0"
+  }
+}
